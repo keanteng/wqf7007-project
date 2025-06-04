@@ -1,2 +1,4 @@
 *.env
 */__pycache__
+# ignore *.safetensors in entire repository
+*.safetensors
