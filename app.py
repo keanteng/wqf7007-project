@@ -9,8 +9,6 @@ print("Testing your team's model...")
 model = AutoModelForSequenceClassification.from_pretrained("keanteng/bert-large-raw-climate-sentiment-wqf7007")
 print("✅ Your model works!")
 
-!pip install gradio transformers torch -q
-
 from transformers import AutoTokenizer
 print("Testing tokenizer...")
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
