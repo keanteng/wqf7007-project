@@ -1,0 +1,5 @@
+gradio>=4.0
+transformers>=4.30
+torch>=2.0
+pandas>=1.5
+python-dotenv
