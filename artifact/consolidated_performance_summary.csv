@@ -1,0 +1,5 @@
+Model_Name,Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+bert-base-clean-climate-sentiment-wqf7007,climate_data_clean,0.7064,0.7016,0.7064,0.703,0.7698
+bert-base-generalized-climate-sentiment-wqf7007,climate_data_generalized,0.7106,0.7274,0.7106,0.7132,0.7928
+bert-base-raw-climate-sentiment-wqf7007,climate_data_raw,0.7886,0.7847,0.7886,0.7853,0.8307
+bert-large-raw-climate-sentiment-wqf7007,climate_data_raw,0.797,0.7923,0.797,0.7911,0.8245

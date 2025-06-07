@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+climate_data_raw,0.7886,0.7847,0.7886,0.7853,0.8307
